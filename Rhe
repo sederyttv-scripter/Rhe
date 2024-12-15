@@ -1,0 +1,1 @@
+game:GetService("Players").LocalPlayer:Kick("script has been updated. Please Check the Latest Video :3")
